@@ -1,2 +1,2 @@
 Knowing the future is now possible.
-run :  php MagicBall.php and let the spirits guide you.
+run command :  php MagicBall.php on the terminal and let the spirits guide you.
